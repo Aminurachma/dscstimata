@@ -4,3 +4,7 @@
   * Android Framework
     ^ Kotlin
     ^ React Native
+
+- Web 
+  * Laravel
+  * Code Igniter
